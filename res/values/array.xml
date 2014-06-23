@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  
+    <string-array name="NameArray"> 
+        <item>海豚浏览器</item>
+		<item>360手机助手</item>
+		<item>360影视大全</item>
+		<item>爱奇艺视频</item>
+		<item>安卓市场</item>
+		<item>百度导航</item>
+		<item>百度地图</item>
+		<item>百度贴吧</item>
+		<item>海豚浏览器</item>
+		<item>360手机助手</item>
+		<item>360影视大全</item>
+		<item>爱奇艺视频</item>
+    </string-array> 
+        
+    <string-array name="PermissArray"> 
+        <item>5项权限</item>
+		<item>3项权限</item>
+		<item>1项权限</item>
+		<item>12项权限</item>
+		<item>7项权限</item>
+		<item>3项权限</item>
+		<item>2项权限</item>
+		<item>10项权限</item>
+		<item>5项权限</item>
+		<item>3项权限</item>
+		<item>1项权限</item>
+		<item>12项权限</item>
+
+    </string-array>
+    
+    
+</resources>

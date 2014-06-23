@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">MyAdapter</string>
+    <string name="action_settings">Settings</string>
+    <string name="add">添加</string>
+    <string name="del">删除首项</string>
+    <string name="delAll">删除所有</string>
+
+</resources>
